@@ -1,8 +1,9 @@
 {
   "name": "OpenSans",
-  "description": "Open Sans is a humanist sans serif typeface designed by Steve Matteson with an upright stress, open forms and a neutral, yet friendly appearance.",
+  "description": "Open Sans: the friendly, open humanist sans serif typeface designed by Steve Matteson for Google, ready to drop into your website.",
   "homepage": "http://www.google.com/fonts/specimen/Open+Sans",
   "license": "Apache-2.0",
   "main": "open-sans.css",
-  "keywords": ["open-sans", "open sans", "font", "webfont"]
+  "ignore": ["README.md"],
+  "keywords": ["google", "open-sans", "open sans", "font", "webfont"]
 }
