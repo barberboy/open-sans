@@ -11,39 +11,39 @@ You have several options for using this project:
 
 ```sh
 cd styles/fonts
-git clone https://github.com/barberboy/OpenSans
+git clone https://github.com/barberboy/open-sans
 ```
 
 ```html
-<link rel="stylesheet" href="/styles/fonts/OpenSans/open-sans.css">
+<link rel="stylesheet" href="/styles/fonts/open-sans/open-sans.css">
 ```
 
 
 ### Download
 
-Download and unpack the [.zip archive](https://github.com/barberboy/OpenSans/archive/master.zip):
+Download and unpack the [.zip archive](https://github.com/barberboy/open-sans/archive/master.zip):
 
 ```sh
 cd styles/fonts
-wget https://github.com/barberboy/OpenSans/archive/master.zip
+wget https://github.com/barberboy/open-sans/archive/master.zip
 unzip master.zip
-mv OpenSans-master OpenSans
+mv open-sans-master open-sans
 rm master.zip
 ```
 
 ```html
-<link rel="stylesheet" href="/styles/fonts/OpenSans/open-sans.css">
+<link rel="stylesheet" href="/styles/fonts/open-sans/open-sans.css">
 ```
 
 
 ### Bower
 
 ```sh
-bower install barberboy/OpenSans
+bower install barberboy/open-sans
 ```
 
 ```html
-<link rel="stylesheet" href="/bower_components/OpenSans/open-sans.css">
+<link rel="stylesheet" href="/bower_components/open-sans/open-sans.css">
 ```
 
 If you’d like bower to put it in a different directory, just create a
@@ -63,7 +63,7 @@ Quickly test Open Sans on your site by using the CDN hosted by [RawGit]. Feel
 free to use it in production as well:
 
 ```html
-<link rel="stylesheet" href="https://cdn.rawgit.com/barberboy/OpenSans/2011-02-02/open-sans.css">
+<link rel="stylesheet" href="https://cdn.rawgit.com/barberboy/open-sans/2011-02-02/open-sans.css">
 ```
 
 
