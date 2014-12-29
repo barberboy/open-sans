@@ -66,6 +66,16 @@ free to use it in production as well:
 <link rel="stylesheet" href="https://cdn.rawgit.com/barberboy/open-sans/2011-02-02/open-sans.css">
 ```
 
+or
+
+```css
+@import url(https://cdn.rawgit.com/barberboy/open-sans/2011-02-02/open-sans.css);
+body {
+  font-family: 'Open Sans';
+  font-weight: 300;
+}
+```
+
 
 ### Google Fonts
 
